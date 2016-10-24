@@ -1,0 +1,13 @@
+[
+    {
+        "model": "www.person",
+        "pk": 3,
+        "fields": {
+            "name": "Herbert Lopez",
+            "title": "Director",
+            "email": "herbert.lopez86@example.com",
+            "image": "https://randomuser.me/api/portraits/men/74.jpg"
+        }
+    },
+
+]
